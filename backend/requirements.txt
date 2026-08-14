@@ -1,0 +1,11 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+python-dotenv==1.1.0
+httpx==0.28.1
+langchain==0.3.25
+langchain-groq==0.3.2
+langchain-core==0.3.58
+huggingface-hub==0.33.1
+numpy==2.3.0
+pdfplumber==0.11.6
+python-multipart==0.0.20
